@@ -1,0 +1,5 @@
+This is a terse description of the initial version of the showeq-maps package.
+
+1. Created the showeq-maps package from the maps directory that had been
+   included with ShowEQ 5.0.0.14, plus some user contributed maps for OoW
+   zones.

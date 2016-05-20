@@ -1,0 +1,100 @@
+#
+# Master author manifest for bash
+#
+# Any files appearing in the bash distribution not listed in this file
+# are either of a mixed/unknown origin or I just haven't gotten to them yet.
+#
+# Filename      authors (first is original author)
+#
+README			Zaphod
+COPYING			Zaphod
+ChangeLog		Zaphod
+INSTALL			Zaphod
+NEWS			Zaphod
+Makefile.am		Zaphod
+maps/
+airplane		
+akanon.map		Anon SEQ User
+arena.map		Megaton
+befallen.map		Megaton
+beholder		
+blackburrow		
+cabeast.map		Steve
+cabwest.map		Steve
+cauldron.map		Kyle,Steve
+cazicthule.map		Kyle,??
+commons.map		Megaton
+crushbone		Schultz
+cshome.map		Wildie
+droga.map		Steve
+eastkarana.map		??,Megaton,??
+ecommons.map 		Megaton
+erudnext.map 		Megaton
+erudnint.map		Megaton
+erudsxing.map		Andrew
+everfrost.map		John,??,Wakka23
+fearplane.map		Wildie
+feerrott.map 		Wildie
+felwithea.map		Megaton,John
+felwitheb.map		John,??
+fieldofbone.map		??,Steve
+fironia.map		??,Megaton,Steve
+freporte.map 		Megaton
+freportn.map 		Megaton
+freportw.map 		Megaton
+frontiermtns.map	??
+gfaydark.map 		Megaton,Sparr
+grobb.map		John,??
+gukbottom.map		Steve,Sparr,fastduke
+guktop.map		Steve,Sparr,fastduke
+halas.map		John
+hateplane.map		Wildie	
+highkeep		Sparr
+highpass.map		Megaton,??
+innothule.map		??
+kaladima.map		Steve
+kaladimb.map		Steve
+kedge			
+kerraridge.map		Sparr
+kithicor.map		Megaton
+lakerathe.map		Steve
+lakeofillomen.map	??,Megaton
+lavastorm.map		Sparr
+lfaydark.map		ACiDFlux2000
+mistmoore.map		ACiDFlux2000
+najena			
+misty.map		GrinningPizza
+nektulos.map		Megaton
+neriaka.map		Megaton
+neriakb.map		Megaton,John
+neriakc.map		Megaton,John
+northkarana.map		Megaton
+nro.map			ACidFlux2000
+nurga			
+oasis.map		Steve
+oggok.map		Kyle
+oot.map			Megaton
+paineel			
+paw			
+permafrost		Sparr
+qcat.map		Andrew
+qey2hh1			Steve
+qeynos.map		Megaton
+qeynos2.map		Avatar
+qeytoqrg.map		Megaton
+qrg.map			Megaton
+rathemtn.map		John
+rivervale.map		Megaton
+runneyeye		
+sky			
+skyfire			
+soldunga.map		Steve,fastduke
+soldungb.map		Steve
+soltemple		
+southkarana		Danilo,Megaton,Sparr
+sro.map			ACiDFlux2000
+steamfont		
+timerous.map		??,Megaton,Steve
+tox.map			??
+unrest.map		Steve
+warslikswood.map	??,Steve

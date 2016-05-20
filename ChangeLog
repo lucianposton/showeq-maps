@@ -1,0 +1,7 @@
+Version: $Id: ChangeLog,v 1.1.1.1 2004/09/21 06:21:29 dohpaz Exp $ $Name:  $
+
+dohpaZ (09/?/04)
+------------------------
++ Created this repository/packages to contain the maps that used to be
+  contained in the 'maps' directory of the 'showeq' repository/package.
++ Added user contributed maps for the Omens of War EQ zones.
